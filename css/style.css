@@ -1466,7 +1466,7 @@ html:not(.osx) ::-webkit-scrollbar-thumb:vertical {
 		margin-top:-24px;
 		left:20px;
 	}
-	/*.project img {width:100%;}*/
+	/* .project img {width:100%;} */
 	.project .project-description {
 		position:relative;
 		text-align:left;
@@ -1579,11 +1579,15 @@ html:not(.osx) ::-webkit-scrollbar-thumb:vertical {
 #project .project-description
 {
 	padding:0px 0 20px 0; /* top, right, bottom, left */
+	color: #474747c2;
 }
 #related-projects .project {
 	margin-bottom:20px;
 }
 
+.highlight {
+	color: red;
+}
 /* --------------------------------------------------------	*/
 /*	Special elements */
 /* --------------------------------------------------------	*/
