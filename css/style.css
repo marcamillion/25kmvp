@@ -2435,3 +2435,17 @@ input.animated:focus {
 .social-network.vimeo:hover,.active .social-network.vimeo{ background-position: -1176px 0}
 .social-network.wordpress:hover,.active .social-network.wordpress{ background-position: -1218px 0}
 .social-network.youtube:hover,.active .social-network.youtube{ background-position: -1260px 0}
+
+
+.content-creation {
+	padding: 10px;
+}
+
+.content-creation-title {
+	background-color: black;
+	color: white;
+}
+
+.marketing-h1 {
+	size: 2em;
+}
